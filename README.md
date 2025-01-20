@@ -9,8 +9,7 @@ Here's a glimpse into my journey:
 
 ## 🛠 Projects
 
-### Pollution-Free City  
-
+###Urban Agriculture
 OVERVIEW:  
 
 Urban agriculture is the practice of cultivating, processing, and distributing food within urban areas. It includes various activities like rooftop gardens, community gardens, vertical farming, and hydroponics. Urban agriculture helps enhance food security, reduce the urban heat island effect, and promote sustainable urban development by utilizing available city spaces for food production. It also fosters community engagement and reduces the carbon footprint associated with transporting food from rural areas.
